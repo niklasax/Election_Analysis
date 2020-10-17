@@ -16,6 +16,7 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
   * Percentage of total votes: 73.8%
 
 
+
 * County with the largest number of votes: Denver
   * 306,055 total votes
   * 82.5% of total votes
@@ -31,6 +32,7 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
   * Denver: 306,055 votes with 82.8% of total votes
   * Jefferson: 38,855 votes with 10.5% of total votes
   * Arapahoe: 24,801 votes with 6.7% of total votes
+
 
 
 * Number of votes and percentage by Candidate
