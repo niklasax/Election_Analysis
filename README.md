@@ -22,6 +22,7 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
   
   
 
+
 ### Comparison of County and Candidate
 
 
