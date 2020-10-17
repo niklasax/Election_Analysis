@@ -38,8 +38,8 @@ Total votes cast in this Congressional Election: 369,711
 
 
 
-Picture link
-<img src="" width="200" height="200" />
+Text file Output
+<img src="https://github.com/niklasax/Election_Analysis/blob/main/Election_Analysis/Summary%20text%20file.png" width="200" height="200" />
 
 ## Election-Audit Summary
 
