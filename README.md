@@ -13,12 +13,13 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 
 
 * County with the largest number of votes: Denver
- * 306,055 total votes
- * 82.5% of total votes
+  * 306,055 total votes
+  * 82.5% of total votes
+  
  
 * Winner of campaign: Diana DeGette
- * 272,892 votes
- * 73.8% of total votes
+  * 272,892 votes
+  * 73.8% of total votes
 
 
 ### Detail
