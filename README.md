@@ -6,10 +6,16 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 ## Election-Audit Results
 
 
+### Highlights
 
-**Total votes cast in this congrssional election: 369,711**
-**County with the largest number of votes: Denver**
 
+***Total votes cast in this congrssional election: 369,711**
+
+
+**County with the largest number of votes: Denver
+
+
+### Detail
 
 
 * Number of votes and percentage by County
