@@ -43,6 +43,6 @@ Picture link
 
 ## Election-Audit Summary
 
-The overall analysis and thought process of this excersise, with some modifications, can be applied to any election. There might be some variations in the input data such as file type, number of fields, what the fields are etc.. but the method is the same. Every election will at some point need to summarize votes and analyze the different factors that constributed to a campaigns success or failure. The analysis and comparison of votes and the various elements of those votes are what gives a campaign insight into its voter base. Without the analysis all you have is meaningless data.
+The overall analysis and thought process of this excersise, with some modifications, can be applied to any election. There might be some variations in the input data such as file type, number of fields, what the fields are etc.. but the method is the same. Every election will at some point need to summarize votes and analyze the different factors that constributed to a campaigns success or failure. The analysis and comparison of votes and the various elements of those votes are what gives a campaign insight into its voter base. Without the analysis, all you have is meaningless data.
 
 
