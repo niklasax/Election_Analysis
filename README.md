@@ -6,11 +6,9 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 ## Election-Audit Results
 
 
-### Highlights
+### Total votes cast in this congrssional election: 369,711
 
 
-
-Total votes cast in this congrssional election: 369,711
 
 
 * Winner of the election: Diana DeGette
@@ -23,7 +21,7 @@ Total votes cast in this congrssional election: 369,711
   * 82.5% of total votes
   
 
-### Detail
+### Comparison of County and Candidate
 
 
 
