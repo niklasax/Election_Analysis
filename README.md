@@ -7,29 +7,27 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 
 
 
--How many votes were cast in this congressional election?
 Total votes cast in this congrssional election: 369,711
 
 
 * Number of votes and percentage by County
-** Denver: 306,055 votes with 82.8% of total votes
-** Jefferson: 38,855 votes with 10.5% of total votes
-** Arapahoe: 24,801 votes with 6.7% of total votes
+  * Denver: 306,055 votes with 82.8% of total votes
+  * Jefferson: 38,855 votes with 10.5% of total votes
+  * Arapahoe: 24,801 votes with 6.7% of total votes
 
 
 * County with the larggest number of votes: Denver
 
 
--Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 * Number of votes and percentage by Candidate
-** Diana DeGette: 272,892 votes with 73.8% of total votes
-** Charles Casper Stockham: 85,213 votes with 23% of total votes
-** Raymon Anthony Doane: 11,606 votes with %3.1 of total votes
+  * Diana DeGette: 272,892 votes with 73.8% of total votes
+  * Charles Casper Stockham: 85,213 votes with 23% of total votes
+  * Raymon Anthony Doane: 11,606 votes with %3.1 of total votes
 
 
 * Winner of the election: Diana DeGette
-** Vote count: 272,892
-** Percentage of total votes: 73.8%
+  * Vote count: 272,892
+  * Percentage of total votes: 73.8%
 
 Picture link
 <img src="" width="200" height="200" />
