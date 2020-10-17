@@ -1,21 +1,38 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-Explain the purpose of this election audit analysis.
+The purpose of this excercise was to gain an understanding of the basics of Python as well as gain familiarity navigating the command line. In this particular analysis, we helped an employee of an election campaign run basic calculations to determine campaign results. More specifically, we helped this employee tally votes by candidate and county, as well as the proportion of votes by candidate and county, to compare results.
 
 ## Election-Audit Results
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+
 
 -How many votes were cast in this congressional election?
+Total votes cast in this congrssional election: 369,711
 
--Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
--Which county had the largest number of votes?
+* Number of votes and percentage by County
+** Denver: 306,055 votes with 82.8% of total votes
+** Jefferson: 38,855 votes with 10.5% of total votes
+** Arapahoe: 24,801 votes with 6.7% of total votes
+
+
+* County with the larggest number of votes: Denver
+
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* Number of votes and percentage by Candidate
+** Diana DeGette: 272,892 votes with 73.8% of total votes
+** Charles Casper Stockham: 85,213 votes with 23% of total votes
+** Raymon Anthony Doane: 11,606 votes with %3.1 of total votes
 
--Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+* Winner of the election: Diana DeGette
+** Vote count: 272,892
+** Percentage of total votes: 73.8%
+
+Picture link
+<img src="" width="200" height="200" />
 
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
