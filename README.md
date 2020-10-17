@@ -9,10 +9,16 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 ### Highlights
 
 
-***Total votes cast in this congrssional election: 369,711**
+**Total votes cast in this congrssional election: 369,711**
 
 
-**County with the largest number of votes: Denver
+* County with the largest number of votes: Denver
+ * 306,055 total votes
+ * 82.5% of total votes
+ 
+* Winner of campaign: Diana DeGette
+ * 272,892 votes
+ * 73.8% of total votes
 
 
 ### Detail
