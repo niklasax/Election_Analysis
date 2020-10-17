@@ -7,16 +7,15 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 
 
 
-Total votes cast in this congrssional election: 369,711
+**Total votes cast in this congrssional election: 369,711**
+**County with the largest number of votes: Denver**
+
 
 
 * Number of votes and percentage by County
   * Denver: 306,055 votes with 82.8% of total votes
   * Jefferson: 38,855 votes with 10.5% of total votes
   * Arapahoe: 24,801 votes with 6.7% of total votes
-
-
-* County with the larggest number of votes: Denver
 
 
 * Number of votes and percentage by Candidate
