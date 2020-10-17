@@ -20,6 +20,7 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
   * 306,055 total votes
   * 82.5% of total votes
   
+  
 
 ### Comparison of County and Candidate
 
