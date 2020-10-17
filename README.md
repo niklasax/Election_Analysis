@@ -12,12 +12,15 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 Total votes cast in this congrssional election: 369,711
 
 
+* Winner of the election: Diana DeGette
+  * Vote count: 272,892
+  * Percentage of total votes: 73.8%
+
+
 * County with the largest number of votes: Denver
   * 306,055 total votes
   * 82.5% of total votes
   
-
-
 
 ### Detail
 
@@ -34,9 +37,6 @@ Total votes cast in this congrssional election: 369,711
   * Raymon Anthony Doane: 11,606 votes with %3.1 of total votes
 
 
-* Winner of the election: Diana DeGette
-  * Vote count: 272,892
-  * Percentage of total votes: 73.8%
 
 Picture link
 <img src="" width="200" height="200" />
