@@ -6,7 +6,7 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 ## Election-Audit Results
 
 
-### Total votes cast in this congrssional election: 369,711
+### Total votes cast in this Congressional Election: 369,711
 
 
 
@@ -14,6 +14,9 @@ The purpose of this excercise was to gain an understanding of the basics of Pyth
 * Winner of the election: Diana DeGette
   * Vote count: 272,892
   * Percentage of total votes: 73.8%
+
+
+
 
 
 
